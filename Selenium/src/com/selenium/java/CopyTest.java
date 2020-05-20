@@ -18,6 +18,8 @@ public class CopyTest {
 	      driver.findElement(By.id("xX4UFf")).sendKeys(Keys.CONTROL+"c");
           //paste text
 	      driver.findElement(By.id("mSoczb")).sendKeys(Keys.CONTROL+"v");
+	      System.out.println("Github Test");
+	      
 	}
 
 }
