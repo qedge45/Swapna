@@ -1,0 +1,15 @@
+<suite name="TestNgSuite">
+  
+  <test name="smoke">
+    <classes>
+      <class name="com.selenium.testng.AnnotationTestng"/>
+
+      <class name="com.selenium.testng.AnnotationsTest1"/>
+      
+      <class name="com.selenium.testng.PBankBeforeAndAfterTest"/>
+      
+      <class name="com.selenium.testng.MultipleTestNg"/>
+      
+    </classes>
+  </test>
+</suite>
